@@ -70,3 +70,6 @@ with pip installed, you can install required packages
 - 增加有用规则，将规则更好地分类，细化
 - 后续可以直接从 rules\request 文件夹中导入HTTP_request
 - 优化扫描逻辑
+
+
+http://zone.wooyun.org/content/23900
